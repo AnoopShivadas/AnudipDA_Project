@@ -1,0 +1,68 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DASHBOARD INFORMATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+This dashboard provides an interactive view of Uber trip activity and performance metrics. It enables users to analyze booking trends, revenue patterns, trip behavior, vehicle utilization, and location-based insights through a centralized reporting interface.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+DASHBOARD NAVIGATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Overview Analysis : Provides a consolidated summary of bookings, revenue, trip distance, payment preferences, vehicle performance, and location trends.
+
+Time Analysis :Focuses on booking activity across different hours and days, helping identify peak demand periods and customer travel patterns.
+
+Details : Displays transaction-level records, allowing users to explore individual trips and validate aggregated metrics shown throughout the dashboard.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+2. KEY PERFORMANCE INDICATORS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Total Bookings :
+Represents the total number of completed trips within the selected filters.
+
+Total Booking Value :
+Displays the overall revenue generated from all recorded trips.
+
+Average Booking Value :
+Shows the average revenue earned per trip.
+
+Total Trip Distance :
+Indicates the cumulative distance travelled across all trips.
+
+Average Trip Distance :
+Measures the average distance covered per booking.
+
+Average Trip Time :
+Represents the average duration of a trip from pickup to drop-off.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+3. INTERACTIVE FEATURES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Date Filter :
+Allows analysis for a specific date range.
+
+City Filter :
+Enables comparison of trip activity across different cities.
+
+Cross-Filtering :
+Selecting any chart, table row, or visual element automatically updates related visuals across the page.
+
+Dynamic Metrics :
+All calculations, charts, and summaries refresh instantly based on the active filter selections.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+4. ANALYTICAL INSIGHTS
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+This dashboard can be used to identify :
+High-demand pickup and drop-off locations.
+Peak booking hours and travel periods.
+Most preferred vehicle categories.
+Customer payment behavior.
+Revenue and distance performance trends.
+Day versus night travel patterns.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+5. USER NOTES
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+Hover over visuals to view additional details and data values.
+Use filters and chart selections to drill deeper into specific trends.
+Reset selections whenever required to return to the default dashboard view.
+All values shown are dependent on the currently selected filters and report context.
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
