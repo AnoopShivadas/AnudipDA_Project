@@ -125,15 +125,15 @@ This page enables detailed exploration and filtering of trip records.
 
 ### Overview Analysis
 
-![Overview Dashboard](Images/overview-analysis.png)
+![Overview Dashboard](Images/overview-analysis.jpg)
 
 ### Time Analysis
 
-![Time Analysis Dashboard](Images/time-analysis.png)
+![Time Analysis Dashboard](Images/time-analysis.jpg)
 
 ### Detailed Analysis
 
-![Detailed Analysis Dashboard](Images/details-analysis.png)
+![Detailed Analysis Dashboard](Images/details-analysis.jpg)
 
 ---
 
